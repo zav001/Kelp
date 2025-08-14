@@ -1,4 +1,4 @@
-# Glazed
+# Kelp Client
 <p align="center">
   <img src="https://nnpg.dev/Glazedlogo.png" alt="Glazed Addon Banner" width="300"/>
 </p>
@@ -14,7 +14,7 @@
 
 ## 🍩 DonutSMP Meteor Client Addon
 
-**Glazed** is a free Meteor Client addon designed specifically for the **DonutSMP** server. I made this to automate the boring and repetitive tasks I kept doing in-game and to give others access to high-quality tools **without paying**. I've seen many paid clients that do less than this one — this is my free alternative.
+**KelpClient** is a free Meteor Client addon designed specifically for the **DonutSMP** server. I made this to automate the boring and repetitive tasks I kept doing in-game and to give others access to high-quality tools **without paying**. I've seen many paid clients that do less than this one — this is my free alternative.
 
 
 
@@ -37,9 +37,6 @@
 | RTPer            | Automatically RTPs until near specified coordinates                   | ✅ Added       |
 | RTPTunnelMiner   | RTPs, mines to a Y level, and then uses #tunnel to mine horizontally. | ✅ Added       |
 | Auto Sell        | Automatically sells sea pickles via /sell                             | ✅ Added       |
-| Xray             | Xray for DonutSMP                                                     | 🟠 Coming soon |
-| Bone Dropper     | Automatically drops bones collected from spawners                     | 🟠 Coming soon |
-| Auto Order       | Automatically executes /order for configured items                    | 🟠 Coming soon |
 | TPSniper         | Automatically spams specific players with /tpa or /tpahere requests   | ❌ Not Yet     |
 | ShulkerOrder     | Buys and then /orders the shulkers                                    | ❌ Not Yet     |
 | OrderSniper      | Snipes for good order prices and sells your stuff                     | ❌ Not Yet     |
@@ -85,34 +82,7 @@ Pair your DonutSMPAddon setup with these built-in Meteor modules for max efficie
   </p>
 </details>
 
-<details>
-  <summary><strong>🛠️ How do I get updates?</strong></summary>
-  <p>
-    Join the <a href="https://discord.gg/TCQDpG8ByY">Discord server</a> for update announcements, changelogs, and early access to new modules. You can also star/watch the GitHub repo.
-  </p>
-</details>
 
-
-
----
-
-## 📢 Join the Discord
-
-> 💬 **[Join the Discord](https://discord.gg/TCQDpG8ByY)** for:
-> - 💸 **Giveaways**
-> - 📢 **Announcements**
-> - 🛠️ **Support**
-> - 💡 **Suggestions**
-
----
-
-## 📥 Installation
-
-📺 Video Tutorial:
-Coming soon
-[Watch how to install everything](https://youtu.be/@realnnpg)
-
-📝 Written Instructions:
 
 1. 🔽 **Download Meteor Client**  
    From: https://meteorclient.com/
@@ -140,15 +110,6 @@ Huge thanks to the projects that make this addon possible:
 - [Meteor Rejects](https://github.com/AntiCope/meteor-rejects)
 - [Baritone](https://github.com/cabaletta/baritone)
 - [FabricMC](https://fabricmc.net/)
-- [Claude AI](https://claude.ai/)
-- [szpuszi](https://github.com/szpuszi)
-- [S1ilvr](https://github.com/S1ilvr)
-- [dankor](https://github.com/dankor1337)
-- [Kez]
-- [Potato]
-- [kxusk]
-- [kq]
-- [some random] 
 ---
 
 ## ⚠️ Disclaimer
